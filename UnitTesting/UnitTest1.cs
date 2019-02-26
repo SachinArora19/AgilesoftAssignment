@@ -12,6 +12,7 @@ namespace UnitTesting
         [TestMethod]
         public void TestMethod1()
         {
+            //Input data for method-- same as of the one which is added by default in program
             List<books> book_ip = new List<books>();
             List<categories> categories_ip = new List<categories>();
             books Temp = new books();
@@ -48,8 +49,8 @@ namespace UnitTesting
             Temp4.cntOfTaggedBooks = 1;
             Temp4.Active = true;
             categories_ip.Add(Temp4);
-            
-            //Read.findBook(book_ip, categories_ip);
+            //Read objRead = new Read();
+            //objRead.findBook(book_ip, categories_ip);
         }
     }
 }
