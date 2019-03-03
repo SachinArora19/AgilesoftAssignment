@@ -8,6 +8,6 @@ namespace BusinessLayer
 {
     public interface IUpdateBusiness
     {
-        void updateBookCategory(List<books> book, List<categories> categories);
+        void updateBookCategory();
     }
 }

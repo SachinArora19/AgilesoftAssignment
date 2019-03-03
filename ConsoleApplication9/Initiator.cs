@@ -20,29 +20,29 @@ namespace agilesoftAssignment
             _updateBusiness = updateBusiness;
             _deleteBusiness = deleteBusiness;
         }
-        public void Read(List<books> book, List<categories> categories)
+        public void Read()
         {
-            _businessClass.findBook(book, categories);
+            _businessClass.findBook();
         }
-        public void addBook(List<books> book, List<categories> categories)
+        public void addBook()
         {
-            _createBusiness.addBook(book, categories);
+            _createBusiness.addBook();
         }
-        public void addCategory(List<categories> categories)
+        public void addCategory()
         {
-            _createBusiness.addCategory(categories);
+            _createBusiness.addCategory();
         }
-        public void updateBookCategory(List<books> book, List<categories> categories)
+        public void updateBookCategory()
         {
-            _updateBusiness.updateBookCategory(book, categories);
+            _updateBusiness.updateBookCategory();
         }
-        public void deleteBook(List<books> book, List<categories> categories)
+        public void deleteBook()
         {
-            _deleteBusiness.deleteBook(book, categories);
+            _deleteBusiness.deleteBook();
         }
-        public void deleteCategory(List<categories> categories)
+        public void deleteCategory()
         {
-            _deleteBusiness.deleteCategory(categories);
+            _deleteBusiness.deleteCategory();
         }
     }
 }

@@ -8,6 +8,6 @@ namespace DataLayer
 {
     public interface IUpdate
     {
-        void updateBookCategory(List<books> book, List<categories> categories);
+        void updateBookCategory();
     }
 }

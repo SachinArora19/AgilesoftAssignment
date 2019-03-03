@@ -8,7 +8,7 @@ namespace BusinessLayer
 {
     public interface IDeleteBusiness
     {
-        void deleteBook(List<books> book, List<categories> categories);
-        void deleteCategory(List<categories> categories);
+        void deleteBook();
+        void deleteCategory();
     }
 }

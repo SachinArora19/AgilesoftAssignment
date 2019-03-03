@@ -8,7 +8,7 @@ namespace DataLayer
 {
     public interface IDelete
     {
-        void deleteBook(List<books> book, List<categories> categories);
-        void deleteCategory(List<categories> categories);
+        void deleteBook();
+        void deleteCategory();
     }
 }

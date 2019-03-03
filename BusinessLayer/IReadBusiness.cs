@@ -8,6 +8,6 @@ namespace BusinessLayer
 {
     public interface IReadBusiness
     {
-        void findBook(List<books> book, List<categories> categories);
+        void findBook();
     }
 }

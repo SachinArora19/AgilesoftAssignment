@@ -1,5 +1,6 @@
 C:\Users\Sachin Arora\Documents\Visual Studio 2012\Projects\ConsoleApplication9\CommonObjects\bin\Debug\CommonObjects.dll
 C:\Users\Sachin Arora\Documents\Visual Studio 2012\Projects\ConsoleApplication9\CommonObjects\bin\Debug\CommonObjects.pdb
+C:\Users\Sachin Arora\Documents\Visual Studio 2012\Projects\ConsoleApplication9\CommonObjects\obj\Debug\CommonObjects.csprojAssemblyReference.cache
 C:\Users\Sachin Arora\Documents\Visual Studio 2012\Projects\ConsoleApplication9\CommonObjects\obj\Debug\CommonObjects.csproj.CoreCompileInputs.cache
 C:\Users\Sachin Arora\Documents\Visual Studio 2012\Projects\ConsoleApplication9\CommonObjects\obj\Debug\CommonObjects.dll
 C:\Users\Sachin Arora\Documents\Visual Studio 2012\Projects\ConsoleApplication9\CommonObjects\obj\Debug\CommonObjects.pdb

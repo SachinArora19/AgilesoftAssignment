@@ -8,6 +8,6 @@ namespace DataLayer
 {
     public interface IRead
     {
-        void findBook(List<books> book, List<categories> categories);
+        void findBook();
     }
 }

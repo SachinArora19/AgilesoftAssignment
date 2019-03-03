@@ -9,7 +9,7 @@ namespace BusinessLayer
 {
     public interface ICreateBusiness
     {
-        void addBook(List<books> book, List<categories> categories);
-        void addCategory(List<categories> categories);
+        void addBook();
+        void addCategory();
     }
 }
